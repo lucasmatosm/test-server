@@ -28,6 +28,17 @@ Rodar o projeto:
   }
 
 
+Para adicionar comentario, realizar post http para localhost:3000/comments
+
+
+	com o corpo:
+      
+  {
+    "body": "some comment",
+    "postId": 1
+  },
+
+
     
 
 
